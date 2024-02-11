@@ -24,7 +24,7 @@ const Loginform = () => {
       <div className="auth-container">
         <h2>Login</h2>
         <form>
-          <label htmlFor="email">Email:</label>
+          <label htmlFor="email">enter Email:</label>
           <input
             type="email"
             
